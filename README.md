@@ -1,4 +1,4 @@
-## Cybersecurity Controls 
+## Security Control Baseline
 # Definition of Controls
 
 Controls are tactics, mechanism, or storage that proactivey minimize risk in one more of the folowing ways 
