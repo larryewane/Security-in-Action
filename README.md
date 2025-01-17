@@ -1,4 +1,13 @@
-## Hi there 👋
+## Cybersecurity Controls 
+# Definition of Controls
+
+Controls are tactics, mechanism, or storage that proactivey minimize risk in one more of the folowing ways 
+
+[] Reduce or eliminates a vulnerability
+
+[] Reduce or eliminates the likelihood that a threat actor will be able to exploit a vulnerability
+
+[] Reduce or eliminate the impact of an expoit 
 
 <!--
 **larryewane/larryewane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
