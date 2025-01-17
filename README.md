@@ -1,7 +1,7 @@
 ## Security Control Baseline
 # Definition of Controls
 
-Controls are tactics, mechanism, or strategies that proactivey minimize risk in one more of the folowing ways 
+Controls are tactics, mechanism, or strategies that proactivey minimize risk in one more of the following ways 
 
 -  Reduce or eliminates a vulnerability
 
